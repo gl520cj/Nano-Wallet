@@ -1,0 +1,32 @@
+{
+  "name": "btcnano-mnemonic",
+  "main": "./btcnano-mnemonic.min.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bitcoinnano/btcnano-mnemonic",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "BIP39 - Mnemonics implemented for Btcnano.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "btcnano",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "mnemonic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

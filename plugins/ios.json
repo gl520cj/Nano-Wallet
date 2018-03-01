@@ -1,0 +1,101 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-spinner-dialog": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-touch-id": {
+      "FACEID_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-ios-requires-fullscreen": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "bitcoin",
+      "SECOND_URL_SCHEME": "Nano Wallet",
+      "THIRD_URL_SCHEME": "bitcoincash",
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-swift-support": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.coinpay.bitebi"
+    }
+  }
+}

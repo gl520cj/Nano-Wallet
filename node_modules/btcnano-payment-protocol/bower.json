@@ -1,0 +1,31 @@
+{
+  "name": "btcnano-payment-protocol",
+  "main": "./btcnano-payment-protocol.min.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bitcoinnano/btcnano-payment-protocol",
+  "authors": [
+    "Jack chen"
+  ],
+  "description": "BIP70 Payment Protocol support for btcnano",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "btcnano",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}

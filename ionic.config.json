@@ -1,0 +1,13 @@
+{
+  "//": "        Modify it in the app-template directory",
+  "name": "Nano Wallet",
+  "app_id": "com.coinpay.bitebi",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}

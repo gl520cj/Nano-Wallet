@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=3.11.1
+Name=Copay
+Comment=Copay Bitcoin Wallet
+Exec=copay
+Icon=icon-256.png
+Terminal=false
+Categories=Finance
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
